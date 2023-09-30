@@ -29,16 +29,6 @@ Summ.ary was built using the following technologies:
 - [![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
 - [![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge)](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge)
 
-### App Overview 📱
-Enter a URL
-!Enter a URL
-
-Get a Summary
-!Get a Summary
-
-Adjust the Length and Tone
-!Adjust the Length and Tone
-
 ### Getting Started 🌱
 To get started with Summ.ary, visit the deployed app [Summ.ary](https://thriving-wisp-17f2cd.netlify.app/). You can enter any article URL and get a summary in seconds!
 
