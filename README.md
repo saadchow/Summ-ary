@@ -14,7 +14,7 @@
 </details>
 
 ### About The Project 📝
-!Project Screenshot
+![Project Screenshot](https://i.imgur.com/jp22IM7.png)
 
 Summ.ary is an open-source tool that helps you read faster and better. It uses Chat GPT-4, a powerful AI model, to create summaries of any article you provide. 
 
